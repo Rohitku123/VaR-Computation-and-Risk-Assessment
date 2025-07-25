@@ -1,4 +1,4 @@
-# 📊 Portfolio Risk Optimization with Parametric Monte Carlo Simulation
+#  Portfolio Risk Optimization with Parametric Monte Carlo Simulation
 
 ## Overview
 
@@ -10,7 +10,7 @@ We assess **portfolio return**, **standard deviation**, and compute **Value at R
 
 ---
 
-## 💼 Portfolio Composition
+##  Portfolio Composition
 
 - **Total Investment:** ₹100,000
 - **Weights:**
@@ -20,7 +20,7 @@ We assess **portfolio return**, **standard deviation**, and compute **Value at R
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 We used **Parametric Monte Carlo Simulations** grounded in the following **three risk assessment methods**:
 
@@ -75,14 +75,14 @@ We used **Parametric Monte Carlo Simulations** grounded in the following **three
 
 ---
 
-## 📈 Key Statistical Results
+##  Key Statistical Results
 
 | Metric                 | Value     |
 |------------------------|-----------|
 | **Mean Return**        | 0.20%     |
 | **Portfolio SD**       | 0.96%     |
 
-### 📉 Value at Risk (VaR) Results
+###  Value at Risk (VaR) Results
 
 | Time Horizon | 99% CI        | 95% CI        | 90% CI        |
 |--------------|---------------|---------------|---------------|
@@ -92,7 +92,7 @@ We used **Parametric Monte Carlo Simulations** grounded in the following **three
 
 ---
 
-## 📌 Takeaways
+##  Takeaways
 
 - **Risk Estimation**: Parametric VaR is crucial for identifying exposure under normal market conditions.
 - **Diversification Effect**: Covariance analysis confirms that a balanced mix of SBI, PNB, and BOB reduces total portfolio risk.
@@ -100,7 +100,7 @@ We used **Parametric Monte Carlo Simulations** grounded in the following **three
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (NumPy, Pandas, Matplotlib)
 - **Statistical Modeling**
@@ -109,7 +109,7 @@ We used **Parametric Monte Carlo Simulations** grounded in the following **three
 
 ---
 
-## 📚 References
+##  References
 
 - Lecture Series by **Mehul Mehta**
 - J.P. Morgan’s RiskMetrics™
@@ -117,7 +117,7 @@ We used **Parametric Monte Carlo Simulations** grounded in the following **three
 
 ---
 
-## 🤝 Connect & Collaborate
+##  Connect & Collaborate
 
 Feel free to explore, fork, or contribute to this project. For discussions on portfolio risk modeling or advanced simulations:
 
